@@ -142,3 +142,7 @@ pytest --headless --send-report
 1. 需要确保Discuz! Q论坛系统已经部署在localhost，并且数据库可以正常连接
 2. 测试前需要在数据库中准备一个已存在的测试用户，用于登录测试
 3. 请确保locator和邮件发送配置正确
+
+## License
+
+本项目采用 [MIT License](LICENSE) 开源协议。
